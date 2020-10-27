@@ -1,0 +1,1 @@
+cmd_/home/book/drivers_and_test/8th_buttons_input/buttons.ko := arm-linux-ld -EL  -r -o /home/book/drivers_and_test/8th_buttons_input/buttons.ko /home/book/drivers_and_test/8th_buttons_input/buttons.o /home/book/drivers_and_test/8th_buttons_input/buttons.mod.o

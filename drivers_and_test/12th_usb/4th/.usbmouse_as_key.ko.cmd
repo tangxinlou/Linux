@@ -1,0 +1,1 @@
+cmd_/home/book/drivers_and_test/12th_usb/4th/usbmouse_as_key.ko := arm-linux-ld -EL  -r -o /home/book/drivers_and_test/12th_usb/4th/usbmouse_as_key.ko /home/book/drivers_and_test/12th_usb/4th/usbmouse_as_key.o /home/book/drivers_and_test/12th_usb/4th/usbmouse_as_key.mod.o

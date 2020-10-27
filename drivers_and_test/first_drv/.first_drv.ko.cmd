@@ -1,0 +1,1 @@
+cmd_/home/book/drivers_and_test/first_drv/first_drv.ko := arm-linux-ld -EL  -r -o /home/book/drivers_and_test/first_drv/first_drv.ko /home/book/drivers_and_test/first_drv/first_drv.o /home/book/drivers_and_test/first_drv/first_drv.mod.o

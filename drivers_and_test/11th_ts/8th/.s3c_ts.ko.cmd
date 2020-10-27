@@ -1,0 +1,1 @@
+cmd_/home/book/drivers_and_test/11th_ts/8th/s3c_ts.ko := arm-linux-ld -EL  -r -o /home/book/drivers_and_test/11th_ts/8th/s3c_ts.ko /home/book/drivers_and_test/11th_ts/8th/s3c_ts.o /home/book/drivers_and_test/11th_ts/8th/s3c_ts.mod.o
